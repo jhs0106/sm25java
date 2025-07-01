@@ -1,6 +1,6 @@
 # Java Study
 #### 학습자 : 주희성
-기간 : 07.01~
+기간 : 2025.07.01 ~ 2025.00.00
 #### 학습에 사용되는 개발 도구 : intellij
 
 <img src="https://github.com/user-attachments/assets/5f3e2d57-9723-4cf3-8d89-cdcf68c6067e" width="150" height="150">

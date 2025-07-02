@@ -19,7 +19,7 @@ public class main{
 
 ***
 # 학습 일자 
-## 07/01
+## 07/02
 <pre>
 <code>
 public class main{

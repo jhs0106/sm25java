@@ -1,6 +1,6 @@
 package operatiion;
 
-public class op1 {
+public class Op1 {
     public static void main(String[] args) {
         int num1 = 10;
         int num2 = 20;

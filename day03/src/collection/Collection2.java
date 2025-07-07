@@ -3,7 +3,7 @@ package collection;
 import java.util.HashSet;
 import java.util.Random;
 import java.util.Set;
-
+//0707
 public class Collection2 {
     public static void main(String[] args) {
         Set<String> set = new HashSet<String>();

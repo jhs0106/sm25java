@@ -1,0 +1,3 @@
+OK
+ejdbc:mysql://localhost:3306/shopdb?useUnicode=true&characterEncoding=UTF8&serverTimezone=Asia/Seoul
+�Product(productId=1001, productName=반팔, productPrice=20000, discountRate=0.3, productImg=s1.jpg, productRegdate=2025-06-27 13:47:34.0, productUpdate=2025-06-27 13:47:34.0, cateId=20)

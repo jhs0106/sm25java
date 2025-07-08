@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="product.Select" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-07-08T09:01:49.131Z" hostname="JHS" time="0.351">
+  <properties/>
+  <testcase name="select()" classname="product.Select" time="0.351"/>
+  <system-out><![CDATA[OK
+jdbc:mysql://localhost:3306/shopdb?useUnicode=true&characterEncoding=UTF8&serverTimezone=Asia/Seoul
+Product(productId=1001, productName=반팔, productPrice=20000, discountRate=0.3, productImg=s1.jpg, productRegdate=2025-06-27 13:47:34.0, productUpdate=2025-06-27 13:47:34.0, cateId=20)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
